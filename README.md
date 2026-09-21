@@ -35,7 +35,7 @@ password=
 ```
 * Save this file, then launch the game. Once the game finishes booting up, you should be connected successfully. You can check the Melon logs window for a success line, or see if any errors occurred.
 
-### Start The Game
+### 3. Start The Game
 Once you've completed the above setup and are connected successfully, you are free to create a new save file and play :)
 
 **REMEMBER, DON'T CHANGE SAVE FILES WHILE CONNECTED!** Loading another save file may unintentionally clear locations. It is safest to stick to one save file for the duration of the multiworld session.
