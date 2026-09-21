@@ -51,7 +51,7 @@ Pac-Man World 2 Re-Pac:
   #
   # Determines what kind of gameplay will be required to beat the seed.
   #
-  # (Note: This setting is unrelated to your save file difficulty. This world's logic is balanced round Adventure Mode, but Fairy Mode is equally playable and may allow some extra locations to be cleared.)
+  # (Note: This setting is unrelated to your save file difficulty. This world's logic is balanced around Adventure Mode, but Fairy Mode is equally playable and may allow some extra locations to be cleared.)
   #
   # Fairy Mode: Good for beginners. Basic gameplay skills are required to clear all locations.
   # Adventure Mode: More challenging logic. Requires niche knowledge of Pac-Man's capabilities, as well as some tricks and glitches used commonly in speedruns of this game.
