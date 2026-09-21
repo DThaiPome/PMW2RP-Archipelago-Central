@@ -24,7 +24,7 @@ The first time you launch the game without configuring a connection, the game wi
 * Fill out the fields with connection details for your multiworld. **Remember, you will need to configure this every time you want to connect to a different multiworld!**
 Example:
 ```
-# The multiorld server domain
+# The multiworld server domain
 domain=archipelago.gg
 # The multiworld port
 port=38281
