@@ -14,7 +14,7 @@ The client mod and APWorld can be found [at the latest release in this repositor
 ## Getting Started (Setup)
 ### 1. Melon/Mod Installation
 * Launch the MelonLoader Installer and use it to install MelonLoader to Pac-Man World 2: Re-PAC. Select MelonLoader v0.7.3.
-* Navigate to the game install directory. Place **PMW2RPArchipelagoClientMod.dll** into the **Mods** folder.
+* Navigate to the game install directory. Place **PMW2RPArchipelagoClientModStandalone.dll** into the **Mods** folder.
 
 The next time you launch the game, it may take some time to startup, and may also close and re-open itself. This is a normal part of MelonLoader's initial setup, and should only happen once.
 
