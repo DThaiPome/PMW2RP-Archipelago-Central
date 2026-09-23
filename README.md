@@ -79,3 +79,5 @@ These things will not always appear in game, and you may want to use a text clie
 
 ## This AP implementation is currently in development!
 We will be adding features, fixing bugs, and cleaning things up over time. Reach out to us in the AP Discord server if you have any questions or concerns! We have a thread in the future games channel.
+
+Maintained by DThaiPome and DepressingChild
