@@ -51,10 +51,10 @@ Pac-Man World 2 Re-Pac:
   #
   # Determines what kind of gameplay will be required to beat the seed.
   #
-  # (Note: This setting is unrelated to your save file difficulty. This world's logic is balanced around Adventure Mode, but Fairy Mode is equally playable and may allow some extra locations to be cleared.)
+  # (Note: This setting is unrelated to your save file difficulty, we just named them this way. This world's logic is balanced around "Adventure Mode" game difficulty, but "Fairy Mode" game difficulty is equally playable for all logic difficulty settings and may allow some extra locations to be cleared.)
   #
-  # Fairy Mode: Good for beginners. Basic gameplay skills are required to clear all locations.
-  # Adventure Mode: More challenging logic. Requires niche knowledge of Pac-Man's capabilities, as well as some tricks and glitches used commonly in speedruns of this game.
+  # Fairy Mode: Good for beginners. Basic gameplay knowledge is required to clear all locations.
+  # Adventure Mode: Looser logic. Requires niche knowledge of Pac-Man's capabilities, as well as some tricks and glitches used commonly in speedruns of this game.
   # Anything Goes: Completion may require you to execute incredibly difficult and frustrating tricks. Pick this if you want to have a bad time.
   logic_difficulty: adventure_mode
 
@@ -62,7 +62,7 @@ Pac-Man World 2 Re-Pac:
   # Each kind of fruit will have a corresponding fruit switch. Collecting it will enable only that type of fruit to be collected in levels.
   fruit_switches: true
 
-  # Exclude Goal Locations: If enabled, important items will not appear in Spooky, Legendary Story, and Flying Dark Shadow.
+  # Exclude Goal Locations: If enabled, important items will not appear in the boss level you chose as your goal.
   # If Spooky is the goal boss, the Pac-Village fruits mission will also not give anything important.
   exclude_goal_locations: true
 
