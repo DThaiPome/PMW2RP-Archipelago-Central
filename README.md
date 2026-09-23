@@ -5,15 +5,16 @@
   * We are only supporting the most current game version; if you've downpatched your game, you may encounter problems until you revert to the latest patch
 * MelonLoader Installer **v4.3.0**: https://melonwiki.xyz/#/README (this is used to install and run mods)
 * Latest release of PMW2RPArchipelagoClientMod (this is the mod that actually provides archipelago support to this game)
-* Archipelago MultiClient .NET 6.7.1: https://github.com/ArchipelagoMW/Archipelago.MultiClient.Net/releases/tag/v6.7.1 (this is a support library used by the client mod)
 * **For seed and options generation:** Latest release of the PMW2RP APWorld
 * **Optional**: Archipelago Launcher: https://archipelago.gg/tutorial/Archipelago/setup_en
   * Currently, you will not be alerted in-game when you receive items. I strongly recommended connecting with a Text Client alongside the game to keep track of what is happening in your multiworld
+ 
+The client mod and APWorld can be found [at the latest release in this repository!](https://github.com/DThaiPome/PMW2RP-Archipelago-Central/releases/tag/latest) The components in this release will always be compatible with each other.
 
 ## Getting Started (Setup)
 ### 1. Melon/Mod Installation
 * Launch the MelonLoader Installer and use it to install MelonLoader to Pac-Man World 2: Re-PAC. Select MelonLoader v0.7.3.
-* Navigate to the game install directory. Place **PMW2RPArchipelagoClientMod.dll** into the **Mods** folder. Place Archipelago.MultiClient.Net.dll into the **UserLibs** folder.
+* Navigate to the game install directory. Place **PMW2RPArchipelagoClientMod.dll** into the **Mods** folder.
 
 The next time you launch the game, it may take some time to startup, and may also close and re-open itself. This is a normal part of MelonLoader's initial setup, and should only happen once.
 
@@ -67,13 +68,14 @@ Here are some things that do appear in game:
   * All levels may appear unlocked until you zoom out. Ignore this, it's a side effect of some patches that enable full map navigation. Use the zoomed-out UI as the source of truth.
   * If a level does not appear unlocked when it should be, try entering and exiting Pac-Village. Or, try navigating over the level with your cursor, you may be able to enter it even if it looks locked.
 * Galaxians collected in a level will immediately appear collected permanently, even if you leave or restart a level without reaching the goal.
-* All Golden Fruit that you possess will appear in Pac-Village under the Golden Tree.
+* All Golden Fruit that you receive will appear in Pac-Village under the Golden Tree.
+* Pac-Knight Era keys that you receive will appear in the world map near their respective gates.
 * Missions and time trials cleared in-game or remotely will appear as such in the world map.
 
 These things will not always appear in game, and you may want to use a text client to track them:
-* Pac-Knight Era Keys and Fruit Switches will not be visible currently.
 * Gashapons will appear collected if you reach a level's goal. Use a text client to track specific gashapons.
 * There is no visible way to track your current moveset, but moveset items you receive will become active immediately. So if you're ever wondering what Pac-Man can or can't do, just try it :)
+* Fruit switches also have no visible tracking. If you receive a fruit switch while playing a level, you may need to restart the level to see the respective fruit appear.
 
 ## This AP implementation is currently in development!
 We will be adding features, fixing bugs, and cleaning things up over time. Reach out to us in the AP Discord server if you have any questions or concerns! We have a thread in the future games channel.
