@@ -9,7 +9,7 @@
 * **Optional**: Archipelago Launcher: https://archipelago.gg/tutorial/Archipelago/setup_en
   * Currently, you will not be alerted in-game when you receive items. I strongly recommended connecting with a Text Client alongside the game to keep track of what is happening in your multiworld
  
-The client mod and APWorld can be found [at the latest release in this repository!](https://github.com/DThaiPome/PMW2RP-Archipelago-Central/releases/tag/latest) The components in this release will always be compatible with each other.
+The client mod and APWorld can be found [at the latest release in this repository!](https://github.com/DThaiPome/PMW2RP-Archipelago-Central/releases/latest) The components in this release will always be compatible with each other.
 
 ## Getting Started (Setup)
 ### 1. Melon/Mod Installation
