@@ -57,7 +57,7 @@ You can configure your seed to gate the following behind random item checks:
 * Beating gold medal time trial times
 
 ### How do you beat the seed?
-Depending on your settings, either by defeating Spooky for the first time, or by clearing the level Flying Dark Shadow.
+Depending on your settings, either by defeating Spooky for the first time, or by clearing both Spooky and Flying Dark Shadow.
 
 ### When I receive items in this game, what does it look like?
 Currently, we have no dedicated in-game tracking for items received or owned. I recommend using a text client with this game to keep track of your progress.
