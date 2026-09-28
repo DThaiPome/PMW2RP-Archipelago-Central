@@ -1,4 +1,8 @@
 # Pac-Man World 2: Re-PAC Archipelago
+This is a central repository of guides, resources, and releases. Most importantly, we will be uploading compatible APWorlds and client mod builds here as they release. These components have their own repositories:
+
+Client mod: https://github.com/DThaiPome/PMW2RPArchipelagoClientMod
+APWorld: https://github.com/DepressingChild/Archipelago/tree/main/worlds/pmw2repac
 
 ## Requirements
 * Legitimate Steam copy of Pac-Man World 2: Re-PAC on PC
